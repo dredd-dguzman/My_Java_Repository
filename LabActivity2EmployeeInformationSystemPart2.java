@@ -28,25 +28,25 @@ public class LabActivity2EmployeeInformationSystemPart2 {
         float HourlyWage = Scanner.nextFloat();
         
         // Formulas for the Computation of the Salaries  
-            // Calculates the Daily Salary by Multiplying the Number of Hours Worked by the Hourly Wage
-            // The value is rounded to the Nearest whole number
-            float DailySalary = Math.round(HoursWorked * HourlyWage);
+        // Calculates the Daily Salary by Multiplying the Number of Hours Worked by the Hourly Wage
+        // The value is rounded to the Nearest whole number
+        float DailySalary = Math.round(HoursWorked * HourlyWage);
             
-            // Calculates the Weekly Salary by Multiplying the Daily Salary by 5 (Assuming a 5-day Workweek)
-            float WeeklySalary = DailySalary * 5;
+        // Calculates the Weekly Salary by Multiplying the Daily Salary by 5 (Assuming a 5-day Workweek)
+        float WeeklySalary = DailySalary * 5;
             
-            // Calculates the Monthly Salary by Multiplying the Weekly Salary by 4 (4 Weeks per Month Assumption)
-            float MonthlySalary = WeeklySalary * 4;
+        // Calculates the Monthly Salary by Multiplying the Weekly Salary by 4 (4 Weeks per Month Assumption)
+        float MonthlySalary = WeeklySalary * 4;
             
-            // Calculates the Gross Yearly Salary by Multiplying the Monthly Salary by 12 (12 Months Per Year)
-            float GrossYearlySalary = MonthlySalary * 12;
+        // Calculates the Gross Yearly Salary by Multiplying the Monthly Salary by 12 (12 Months Per Year)
+        float GrossYearlySalary = MonthlySalary * 12;
         
-            // Computes the Total Deductions, Which Includes:
-            // - 32% Tax of the Gross Yearly Salary
-            // - Government-mandated Benefits Amounting to Php 1,500.00
-            float Deductions = (GrossYearlySalary * 0.32f) + 1500.00f;
-            // Rounded Off the Value to the First Decimal Place to Match the Given Output
-            float NetYearlySalary = Math.round((GrossYearlySalary - Deductions) * 10) /10.0f;
+        // Computes the Total Deductions, Which Includes:
+        // - 32% Tax of the Gross Yearly Salary
+        // - Government-mandated Benefits Amounting to Php 1,500.00
+        float Deductions = (GrossYearlySalary * 0.32f) + 1500.00f;
+        // Rounded Off the Value to the First Decimal Place to Match the Given Output
+        float NetYearlySalary = Math.round((GrossYearlySalary - Deductions) * 10) /10.0f;
 
         // Contains, Processes, and Prints the Collected Information from User       
         System.out.println("\nEmployee Information");
