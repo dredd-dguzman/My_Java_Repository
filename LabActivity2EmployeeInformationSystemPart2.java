@@ -1,7 +1,7 @@
 // Java Scanner Importer for User Input
 import java.util.Scanner;
 
-public class LabActivity1EmployeeInformationSystem {
+public class LabActivity2EmployeeInformationSystemPart2 {
     
     public static void main(String[] args) {
         // Defines the Scanner Module for User Inputs      
