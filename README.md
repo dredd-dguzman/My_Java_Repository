@@ -1,65 +1,69 @@
-Java Programming Repository
-This repository is a comprehensive collection of laboratory activities and major projects created during a Java programming course. It covers a wide range of Java concepts — from fundamental programming principles to advanced topics such as GUI development and application design.
+# 📚 Java Programming Repository
 
-👤 Author
-  Joshua Dredd Stephen B. De Guzman
-  Bachelor of Science in Computer Science (BSCS-1A)
-  Cavite State University - Imus Campus
+This repository contains a collection of laboratory activities and major projects developed during a Java programming course. It demonstrates a variety of Java concepts — from basic programming logic to advanced GUI application development.
 
-📁 Repository Structure
-  Each folder in this repository corresponds to a specific laboratory activity or project. Inside each folder, you will typically find:
+---
 
-✅ Java source files (.java)
+## 👤 Author  
+**Joshua Dredd Stephen B. De Guzman**  
+**Course:** BSCS-1A  
+**School:** Cavite State University - Imus Campus
 
-📝 A dedicated README.md (if available) explaining:
+---
 
-The objective of the activity
+## 📁 Repository Structure
 
-Core functionalities
+Each activity or project is located in its own folder and typically includes:
 
-How to compile and run the code
+- Java source code files (`.java`)
+- A `README.md` file describing:
+  - Objectives
+  - Key Java concepts
+  - Features and functionality
+  - How to compile and run
 
-Key Java concepts applied
+---
 
-📌 Contents
-🧪 Laboratory Activities
-  These individual lab exercises are designed to practice and reinforce specific Java concepts. Examples include:
+## 📌 Contents
 
-LabActivity1EmployeeInformationSystem.java
+### 🧮 Final Project – Calculator Application  
+**Folder:** `FinalLabProject_Group6_BSCS1A`  
+**Description:**  
+A full-featured calculator built using Java Swing. It includes standard arithmetic operations and demonstrates GUI layout, event-driven programming, and clean UI design.
 
-LabActivity2EmployeeInformationSystemPart2.java
+---
 
-LabActivity3ConditionalStatement.java
+### 🎟️ Midterm Project – Ticketing System  
+**File/Folder:** `MyMidtermLabExam.java` or a dedicated folder  
+**Description:**  
+A basic ticketing system focusing on data entry, storage, and display using Java constructs. Emphasizes file handling and logic flow.
 
-LabActivity4EmpInfoSystemGUI.java
+---
 
-LabActivity5QuizAppAWT.java
+## 🧪 Laboratory Activities
 
-LabActivity6SwingToDoList.java
+Below are examples of lab exercises included in this repository:
 
-🔸 Midterm Project – Ticketing System
-Description:
-  A basic ticketing system focused on managing and displaying ticket-related information. This project showcases file handling, user input/output, and elementary data structures.
+| File Name | Focus |
+|-----------|-------|
+| `LabActivity1EmployeeInformationSystem.java` | Basic data input/output |
+| `LabActivity2EmployeeInformationSystemPart2.java` | Classes and objects |
+| `LabActivity3ConditionalStatement.java` | Conditional logic |
+| `LabActivity4EmpInfoSystemGUI.java` | GUI using AWT |
+| `LabActivity5QuizAppAWT.java` | AWT-based quiz system |
+| `LabActivity6SwingToDoList.java` | Swing-based To-Do list app |
 
-🔹 Final Project – Calculator Application
-Description:
-  A complete calculator application developed as the final course requirement. It supports basic arithmetic operations and highlights Java Swing GUI components, event-driven programming, and minimalist interface design.
+---
 
-💡 Key Topics Covered
+## 🧠 Key Concepts Demonstrated
 
-Employee Information Systems
-  Basic input/output handling, use of classes and objects, and simple data management.
+- **Java Fundamentals** – Data types, conditionals, loops, arrays, methods  
+- **Object-Oriented Programming** – Classes, objects, inheritance, encapsulation  
+- **File I/O** – Reading from and writing to files  
+- **GUI Development** – Using AWT and Swing for interactive UIs  
+- **Event Handling** – Responding to user actions  
+- **Application Logic** – Structuring code for real-world use cases
 
-Conditional Logic
-  Control flow using if-else statements, switch cases, and logical operators.
-
-GUI Development with AWT/Swing
-  Graphical user interfaces, event listeners, layout management, and responsive design.
-
-Quiz Applications
-  Handling questions and answers, tracking scores, and creating interactive quizzes.
-
-To-Do List Applications
-  Simple task management systems built using Java Swing with dynamic user interaction.
+---
 
 📌 Feel free to explore the folders, run the programs, and learn from the implementation of each activity. Happy coding! 👨‍💻
