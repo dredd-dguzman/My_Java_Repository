@@ -11,36 +11,9 @@ This repository contains a collection of laboratory activities and major project
 
 ---
 
-## 📁 Repository Structure
-
-Each activity or project is located in its own folder and typically includes:
-
-- Java source code files (`.java`)
-- A `README.md` file describing:
-  - Objectives
-  - Key Java concepts
-  - Features and functionality
-  - How to compile and run
-
----
 
 ## 📌 Contents
-
-### 🧮 Final Project – Calculator Application  
-**Folder:** `FinalLabProject_Group6_BSCS1A`  
-**Description:**  
-A full-featured calculator built using Java Swing. It includes standard arithmetic operations and demonstrates GUI layout, event-driven programming, and clean UI design.
-
----
-
-### 🎟️ Midterm Project – Ticketing System  
-**File/Folder:** `MyMidtermLabExam.java` or a dedicated folder  
-**Description:**  
-A basic ticketing system focusing on data entry, storage, and display using Java constructs. Emphasizes file handling and logic flow.
-
----
-
-## 🧪 Laboratory Activities
+### 🧪 Laboratory Activities
 
 Below are examples of lab exercises included in this repository:
 
@@ -52,6 +25,19 @@ Below are examples of lab exercises included in this repository:
 | `LabActivity4EmpInfoSystemGUI.java` | GUI using AWT |
 | `LabActivity5QuizAppAWT.java` | AWT-based quiz system |
 | `LabActivity6SwingToDoList.java` | Swing-based To-Do list app |
+
+---
+### 🎟️ Midterm Project – Ticketing System  
+**File:** `MyMidtermLabExam.java` 
+**Description:**  
+A basic ticketing system focusing on data entry, storage, and display using Java constructs. Emphasizes file handling and logic flow.
+
+---
+
+### 🧮 Final Project – Calculator Application  
+**File:** `FinalLabProject_Group6_BSCS1A`  
+**Description:**  
+A full-featured calculator built using Java Swing. It includes standard arithmetic operations and demonstrates GUI layout, event-driven programming, and clean UI design.
 
 ---
 
