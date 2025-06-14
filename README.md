@@ -1,5 +1,5 @@
 Java Programming Repository
-This repository is a comprehensive collection of laboratory activities and major projects created during a Java programming course. It covers a wide range of Java concepts — from fundamental programming principles to advanced topics such as GUI development and application design.
+  This repository is a comprehensive collection of laboratory activities and major projects created during a Java programming course. It covers a wide range of Java concepts — from fundamental programming principles to advanced topics such as GUI development and application design.
 
 👤 Author
   Joshua Dredd Stephen B. De Guzman
